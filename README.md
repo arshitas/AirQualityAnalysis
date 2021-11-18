@@ -12,7 +12,7 @@ The dataset contains 9358 instances of hourly averaged responses from an array o
 * Matplotlib
 
 ### ML model
-* The regression model developed for analyzing Carbon emission derives the relstion between CO emission to NMHC and benzene concentration. The model compares between Multiple, Ridge and Lasso regression by using R-squared value.
+* The regression model developed for analyzing Carbon emission derives the relation between CO emission to NMHC and benzene concentration. The model compares between Multiple, Ridge and Lasso regression by using R-squared value.
 * The regression model developed for analyzing Nitrogen emission uses Ridge regression to map the relation between NOx and NO2 concentration. Here we change the value of regularization parameter and observe in effects by the R-squared value.
 
 ### Output
